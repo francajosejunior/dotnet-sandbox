@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using sandbox;
 
-
+PayService payService = new PayService();
+double tax = payService.tax(1000.0);
+Console.WriteLine($"O valor da taxa é {tax}");

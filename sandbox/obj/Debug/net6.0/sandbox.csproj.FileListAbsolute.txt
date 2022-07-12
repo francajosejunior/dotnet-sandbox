@@ -1,0 +1,15 @@
+/Users/josejoaquim/developer/dotnet-sandbox/sandbox/bin/Debug/net6.0/sandbox
+/Users/josejoaquim/developer/dotnet-sandbox/sandbox/bin/Debug/net6.0/sandbox.deps.json
+/Users/josejoaquim/developer/dotnet-sandbox/sandbox/bin/Debug/net6.0/sandbox.runtimeconfig.json
+/Users/josejoaquim/developer/dotnet-sandbox/sandbox/bin/Debug/net6.0/sandbox.dll
+/Users/josejoaquim/developer/dotnet-sandbox/sandbox/bin/Debug/net6.0/sandbox.pdb
+/Users/josejoaquim/developer/dotnet-sandbox/sandbox/obj/Debug/net6.0/sandbox.csproj.AssemblyReference.cache
+/Users/josejoaquim/developer/dotnet-sandbox/sandbox/obj/Debug/net6.0/sandbox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josejoaquim/developer/dotnet-sandbox/sandbox/obj/Debug/net6.0/sandbox.AssemblyInfoInputs.cache
+/Users/josejoaquim/developer/dotnet-sandbox/sandbox/obj/Debug/net6.0/sandbox.AssemblyInfo.cs
+/Users/josejoaquim/developer/dotnet-sandbox/sandbox/obj/Debug/net6.0/sandbox.csproj.CoreCompileInputs.cache
+/Users/josejoaquim/developer/dotnet-sandbox/sandbox/obj/Debug/net6.0/sandbox.dll
+/Users/josejoaquim/developer/dotnet-sandbox/sandbox/obj/Debug/net6.0/refint/sandbox.dll
+/Users/josejoaquim/developer/dotnet-sandbox/sandbox/obj/Debug/net6.0/sandbox.pdb
+/Users/josejoaquim/developer/dotnet-sandbox/sandbox/obj/Debug/net6.0/sandbox.genruntimeconfig.cache
+/Users/josejoaquim/developer/dotnet-sandbox/sandbox/obj/Debug/net6.0/ref/sandbox.dll

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E5505EA6-1600-4AC7-919F-D4240F83BB8C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sandbox/PayService.cs">
+    <Files>
+      <File FileName="sandbox/Program.cs" Line="3" Column="35" />
+      <File FileName="sandbox/PayService.cs" Line="2" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sandbox" expanded="True">
+            <Node name="sandbox" expanded="True" />
+          </Node>
+          <Node name="sandbox" expanded="True">
+            <Node name="sandbox" expanded="True">
+              <Node name="PayService.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.sandbox PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
